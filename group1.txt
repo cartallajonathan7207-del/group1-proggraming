@@ -60,7 +60,7 @@ public class Maybe {
         };
 
         System.out.print("Enter Term: ");                        //Jonathan
-        String choice = scanner.nextLine();                      //The user can enter
+        String choice = scanner.nextLine();                      //The user can enter term
         
         Boolean decision = false;
         for (int i = 0; i < data.length; i++) {
